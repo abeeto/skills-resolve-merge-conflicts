@@ -1,1 +1,1 @@
-Hi, this better conflict with what was added in the main branch.  
+Hi, this better fix the merge conflict with the main branch.  
